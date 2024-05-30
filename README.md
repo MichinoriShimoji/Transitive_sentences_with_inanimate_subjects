@@ -14,5 +14,4 @@
 #### Script files contained in this analysis:
 
 -   **preprocessing.Rmd**: for editing the raw data for further analyses
--   **analysis.Rmd:** for analysis with Cumulative Link Mixed Effects Model
 -   **analysis.Rmd:** for the analysis with Cumulative Link Mixed Effects Model and their resulting plots
